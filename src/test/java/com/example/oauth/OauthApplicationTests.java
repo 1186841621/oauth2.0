@@ -10,7 +10,7 @@ import java.lang.management.ManagementFactory;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class OauthApplicationTests {
-
+	//你好
 	@Test
 	public void contextLoads() {
 	}
